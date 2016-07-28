@@ -1,0 +1,56 @@
+.jumbotron
+    {   background-color: black;
+        font-family: times, garamond, cursive;
+        font-color: #000000;
+    }
+    
+#j1
+{
+    color: white;
+}
+
+body
+{
+    font-family: times, garamond, cursive;
+    font-style: italic;
+}
+
+h2
+{
+    font-family: times, garamond, cursive;
+    
+}
+
+img
+{
+    border: black 3px solid;
+    border-radius: 1%;
+}
+
+.jessye1
+    {
+    display: center-block;
+    margin-left: auto;
+    margin-right: auto }
+    
+.leontyne1
+    {
+    display: center-block;
+    margin-left: auto;
+    margin-right: auto }
+
+p
+{
+        font-family: times, garamond, cursive;
+        font-size: larger;
+        text-align: center;
+}       
+
+.bio1"
+{
+        text-align: left;
+}
+.modalfooter
+{
+    align: center;
+}

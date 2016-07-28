@@ -1,0 +1,21 @@
+.carou1
+{
+    border: none;
+}
+
+.img-responsive
+{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.btn
+{
+    text-align: center;
+}
+
+.modal-dialog {
+   margin-right: 0;
+   margin-top: 0 ;
+}
